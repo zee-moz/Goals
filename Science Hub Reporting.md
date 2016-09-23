@@ -10,7 +10,7 @@ Ship v1 of Open Data curriculum | AT RISK
 
 #### Accomplishments (What progress did we make towards these goals?)
 * [SEPT] Successfully completed a week of joint on-boarding of MLN Fellows (Open Web and Science).  There was only one afternoon where the two groups split apart to discuss program specific issues.
-* [SEPT] Most of the content for the Study Group Orientation materials is complete.  Will have done by end of first week in October.  
+* [SEPT] Most of the content for the Study Group Orientation materials is complete.  Will be complete by end of first week in October.  
 
 #### Learnings (What challenges did we face/what went well/what did we learn?)
 * [SEPT] The two Fellows programs have been operating on very different schedules.  We worked hard to bring them more in sync and managed to schedule the onboarding for the same week.  Based off feedback from the Fellows on the first day of onboarding, we learned there is a surprising amount of overlap in interests / needs of the two programs and were able to revamp the onboarding on the fly to take advantage of that.  Now the challenge is to figure out how to expand that to provide more opportunities for program collaboration throughout the Fellowship.
